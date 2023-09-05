@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "inspiring-bee-398116",
+  "private_key_id": "71ec448a2011a80ecc864b4843a987c35d6abad4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnw4sM1t3KZ8ts\n92G+zMblY5lwQz4pxXYBtnCivzCD3HBQP59T+W8RBHhdxb5Zm1vY/B4omuq9clVp\nHKTA1BHirjFyqgPfNOWyFhUMwRMRQMqvWZr+JXPuK52aErmXOBePnL5Bho+XVNUX\n0NzhNKxq1Be89PnDsk3GSd/U6Vp1ovYRC/umATHb8rzTITIK+8ts618veIp1xlEe\nRb4G0JjGiPmiSZkmRo8RVX69ehDQqyCEk4uzc8b02gjGSMt/u+iFAKKJs4CeNx19\n5gHC8Cr4JhrfzkNYUNBQ9kuvALEHDc7+bCASFX/8UOOdepaw2OCTDlQ5PA6WhUKm\n/mMva5rJAgMBAAECggEANJJBa7eVbw0RoUbwWXMgTNfmSFi6DSr0rNq39zgEgv28\nMFmPmygKFwIYmgISgU/++0MeTEknkFBY1YSFWGvcYvWFR1Jhvjt8U086L3H9gKWW\nHlbtDAE+j/8Y9yQxBmMsdvN+Z1g8fQa3dCweW3A/K4blHXCDKEEiwCV8P+MUVtJF\neOG6xuXTpVSIOKO7bVVcn0tvwPc/aYxazaRjbUf/3f50STr8WFPDR5SCKNU3z/hF\n3N9AlJ7dntWiUtbssATEtHKOiP919rJpwCmkSX+BmsXAr2V/ipKa+tl5QMBilEwT\nDU+g+f1C3VTLPPX/Dro1XvnBSop8V/3raJQ7tjvspQKBgQDQgFfkKz8kk+vFptnG\nHhCCgan5Eu35vwoMghCbURcUv179fcv8tUup85CTFqHhw7LWdmYfJW0lsMEA2ASZ\naii+GHfc66nQBu5QeGa+PdFjOnSrVLB0D2bwfaCGg5KdJ95DjLNEGwQsnXIizLPf\n/4L674U9MYIY/vKpDHHbutA++wKBgQDN+2qc7N7Qpe0X16cRKi0dW2SDVm4dX/ei\nyR4fr1ZNcUbzaIXeUQrnxGIWGrRs3SCBI0Rt6kN7iYnwk8pEEopE2QQ9s4DPCq75\nMPvS7n32y0adY5L/MCfYTaOTzeHjf3gNEO7XyBIM6/gc7Luk666seHqQhp0Q8o27\nyjIgiT3SCwKBgF8KwgW+OPBBhW35mreWqMv0szhYiqYXkUsWVt+V3UGV4oUGvN+a\n/LyhzDtgS7aP8IuWOQLlmpVdtvzde2s7WwscODc6LZQoNKX13E/H+hSTZu9akXy2\nMKRbf7sRatm8fLKqBmV7MzHrK0X1reDjph8g48l7MeSXAqJQi+4vgBHVAoGAPKdF\n04OkcMgLMrQby+AhfL2GsW3n6tpxbwvNxQK6ZP9wJwimMrqmfWzEfUHL0yqiAaTC\n56LN0DjF14ONUdIryO4mY4zR5yV8NICKBqiXiu58kqfZhy9E7FqgSkubsoO8dAyC\naCPPvOJXIx1Ke9uyibLIVHpvEah6t8toS1BeVdUCgYAr5ha+lJlYjzOX7iSiIrdZ\nKNyFnIRDQMmmu26o4GUPfahZQY5fxOV7Z45GSb/K5oWH+hfugXoLQYlHM7AJs6cA\nT8MHo8zBwvZfLxIqsNWwu4bsAB6AlEZ8LqeF2FKSYZZVvn896AMA/jYyc7bBRDqQ\nsmvc04Qkj+yfXGOvLmwGGA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "big-query-sa@inspiring-bee-398116.iam.gserviceaccount.com",
+  "client_id": "112689471568262779421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/big-query-sa%40inspiring-bee-398116.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
